@@ -1,0 +1,6 @@
+C:\Users\Claudia Silva\Documents\advanced_Programming\nickname_Generator\nickname_Generator\bin\Debug\nickname_Generator.exe.config
+C:\Users\Claudia Silva\Documents\advanced_Programming\nickname_Generator\nickname_Generator\bin\Debug\nickname_Generator.exe
+C:\Users\Claudia Silva\Documents\advanced_Programming\nickname_Generator\nickname_Generator\bin\Debug\nickname_Generator.pdb
+C:\Users\Claudia Silva\Documents\advanced_Programming\nickname_Generator\nickname_Generator\obj\Debug\nickname_Generator.csprojResolveAssemblyReference.cache
+C:\Users\Claudia Silva\Documents\advanced_Programming\nickname_Generator\nickname_Generator\obj\Debug\nickname_Generator.exe
+C:\Users\Claudia Silva\Documents\advanced_Programming\nickname_Generator\nickname_Generator\obj\Debug\nickname_Generator.pdb
